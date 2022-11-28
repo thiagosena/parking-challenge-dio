@@ -1,7 +1,7 @@
 package com.thiagosena.parking.api;
 
-import com.thiagosena.parking.api.payload.ParkingCreateDto;
-import com.thiagosena.parking.api.payload.ParkingDto;
+import com.thiagosena.parking.api.dto.ParkingCreateDto;
+import com.thiagosena.parking.api.dto.ParkingDto;
 import com.thiagosena.parking.domain.services.ParkingService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

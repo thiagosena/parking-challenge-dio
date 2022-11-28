@@ -1,4 +1,4 @@
-package com.thiagosena.parking.api.payload;
+package com.thiagosena.parking.api.dto;
 
 public record ParkingCreateDto(
         String license,

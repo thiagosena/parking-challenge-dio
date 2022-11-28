@@ -1,6 +1,6 @@
 package com.thiagosena.parking.controller;
 
-import com.thiagosena.parking.api.payload.ParkingCreateDto;
+import com.thiagosena.parking.api.dto.ParkingCreateDto;
 import io.restassured.RestAssured;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.BeforeEach;

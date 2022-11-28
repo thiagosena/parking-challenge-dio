@@ -2,8 +2,8 @@ package com.thiagosena.parking.domain.services;
 
 import com.thiagosena.parking.api.ParkingAlreadyExitException;
 import com.thiagosena.parking.api.ParkingNotFoundException;
-import com.thiagosena.parking.api.payload.ParkingCreateDto;
-import com.thiagosena.parking.api.payload.ParkingDto;
+import com.thiagosena.parking.api.dto.ParkingCreateDto;
+import com.thiagosena.parking.api.dto.ParkingDto;
 import com.thiagosena.parking.domain.ParkingRepository;
 import com.thiagosena.parking.domain.entities.Parking;
 import org.slf4j.Logger;

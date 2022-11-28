@@ -1,4 +1,4 @@
-package com.thiagosena.parking.api.payload;
+package com.thiagosena.parking.api.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonInclude;

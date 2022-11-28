@@ -1,6 +1,6 @@
 package com.thiagosena.parking.domain.entities;
 
-import com.thiagosena.parking.api.payload.ParkingCreateDto;
+import com.thiagosena.parking.api.dto.ParkingCreateDto;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
